@@ -1,0 +1,5 @@
+cd
+cd /usr/bin
+sh cpsd main
+cd /var
+./main
